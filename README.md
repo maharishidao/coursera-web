@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to MaharishiDao Page!
 
 You can use the [editor on GitHub](https://github.com/maharishidao/coursera-web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
